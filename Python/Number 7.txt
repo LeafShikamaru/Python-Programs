@@ -1,0 +1,7 @@
+The program allows for multiple functions.
+To generate IoT data you must go under file then select generate IoT.
+To generate a graph the histogram of the of the outside temperature for the sampled times (every 6 hours) you must go under file then select plot a. 
+To generate a graph of the outside vs the room temperature you must go under file then select plot b.
+To generate a graph a histogram of all of the room and outside temperature and humidity for the 1000 samples across all users.
+To save the file as a JSON select file then save as JSON.
+To save the file as a CSV select file then save as CSV.
